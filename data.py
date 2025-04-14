@@ -9,3 +9,7 @@ print(df)
 
 count_column = df.shape[1]
 print(count_column)
+
+
+count_row = df.shape[0]
+print(count_row)
